@@ -1,7 +1,3 @@
-# modoofactoryMarkdown
-
-
-
 모두팩토리 Item 설명
 
 
