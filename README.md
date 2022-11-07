@@ -4,9 +4,15 @@
 
 
 
+### [App]
+
+1.   [rule](./app/rule.md) :이용약관
+2.   [privacy](./app/privacy.md): 개인정보보호정책
+
 ### [Payment]
 
 1.   [payment : inisi 일반결제](./payment/payment_iamport_inisis.md)
+1.   
 
 
 
