@@ -1,5 +1,7 @@
 모두팩토리 Item 설명
 
+(github에서 repository 열고, 이 상태에서 .을 누르면 editor로 진입된다.)
+
 
 
 ### [Payment]
